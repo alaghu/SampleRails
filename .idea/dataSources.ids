@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Oracle - @adc01knk.us.oracle.com" uuid="4eff5ff7-5910-4fdc-8d72-9e86e584bb71">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails SampleRails: test" uuid="360d0bdf-4596-49d6-840f-04e6d6b1e3f1">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails SampleRails: development" uuid="0a3afdc8-23f8-4df3-852b-9c07b430f0a9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails SampleRails: production" uuid="55be73c3-e6c6-4a10-ac9c-af64cc690c09">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
